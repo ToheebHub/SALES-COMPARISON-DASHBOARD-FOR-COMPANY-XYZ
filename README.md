@@ -1,0 +1,1 @@
+This Power BI dashboard provides a sales comparison for Company XYZ, featuring total products (22), salespersons (25), and key metrics like sales by year, month, and product. It includes expense breakdowns, salesperson performance, product category distribution, and box sales. The dashboard enables data-driven decision-making for sales performance analysis.
